@@ -1,0 +1,54 @@
+<resources>
+<string name="app_name">HOMETASK</string>
+<string name="passage1">It has survived not only five centuries, but also the leap into electronic typesetting,
+        remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem
+        Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of
+        Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+        industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it
+        to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting,
+        remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing
+        Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions
+        of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+        industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to
+        make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting,
+        remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem
+        Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of
+        Lorem Ipsum.</string>
+
+<string name="passage2">.But the BBC found that the money, which helped Barclays avoid a bailout by British taxpayers,
+        actually came from the Abu Dhabi government. Barclays misled shareholders and the public about one of the biggest investments in the bank\'s history,
+        a BBC Panorama investigation has found. The bank announced in 2008 that Manchester City owner Sheikh Mansour had agreed
+        to invest more than £3bn.But the BBC found that the money, which helped Barclays avoid a bailout by British taxpayers,
+        actually came from the Abu Dhabi government.
+    Barclays misled shareholders and the public about one of the biggest investments in the bank\'s history,
+        a BBC Panorama investigation has found. The bank announced in 2008 that Manchester City owner Sheikh Mansour had agreed
+        to invest more than £3bn.But the BBC found that the money, which helped Barclays avoid a bailout by British taxpayers,
+        actually came from the Abu Dhabi government. Barclays misled shareholders and the public about one of the biggest investments in the bank\'s history,
+        a BBC Panorama investigation has found. The bank announced in 2008 that Manchester City owner Sheikh Mansour had agreed
+        to invest more than £3bn.But the BBC found that the money, which helped Barclays avoid a bailout by British taxpayers,
+        actually came from the Abu Dhabi government.</string>
+
+<string name="passage3">areholder". Barclays still used the phrase "his investment", even though it knew Sheikh
+        Mansour was not actually investing in the bank at the time.
+    The bank said it subsequently provided "appropriate disclosure" in three prospectuses that were
+        issued the following day. But the disclosure was buried deep in the small print and said that Sheikh Mansour "has
+        arranged for his investment…to be funded by an Abu Dhabi governmental investment vehicle, which will become the
+        indirect shareholder". Barclays still used the phrase "his investment", even though it knew Sheikh Mansour was not
+        actually investing in the bank at the time. The bank said it subsequently provided "appropriate disclosure" in three
+        prospectuses that were issued the following day. But the disclosure was buried deep in the small print and said that
+        Sheikh Mansour "has arranged for his investment…to be funded by an Abu Dhabi governmental investment vehicle, which
+        will become the indirect shareholder". Barclays still used the phrase "his investment", even though it knew Sheikh
+        Mansour was not actually investing in the bank at the time.
+    The bank said it subsequently provided "appropriate disclosure" in three prospectuses that were
+        issued the following day. But the disclosure was buried deep in the small print and said that Sheikh Mansour "has
+        arranged for his investment…to be funded by an Abu Dhabi governmental investment vehicle, which will become the
+        indirect shareholder". Barclays still used the phrase "his investment", even though it knew Sheikh Mansour was not
+        actually investing in the bank at the time. The bank said it subsequently provided "appropriate disclosure" in three
+        prospectuses that were issued the following day. But the disclosure was buried deep in the small print and said that
+        Sheikh Mansour "has arranged for his investment…to be funded by an Abu Dhabi governmental investment vehicle, which
+        will become the indirect shareholder". Barclays still used the phrase "his investment", even though it knew Sheikh
+        Mansour was not actually investing in the bank at the time.</string>
+<string name="text_one">Text One</string>
+<string name="text_two">Text Two</string>
+<string name="text_three">Text Three</string>
+</resources>
